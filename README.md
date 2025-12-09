@@ -22,7 +22,8 @@ Guess the word one letter at a time before your lives run out! 🕹️💥
 
 ## 📸 Demo
 
-![Hangman Screenshot](screenshot.png)  <!-- Add your screenshot or GIF here -->
+![Hangman Screenshot](screenshot.png)  <!-- <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/edfc5e6f-f528-4966-b660-95cc4402c1b7" />
+->
 
 Or try live demo (if hosted):  
 [🔗 Live Demohttps://python-game-ldryzkhah2pevzkcnk3uxp.streamlit.app/](#)
@@ -34,7 +35,7 @@ Or try live demo (if hosted):
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/hangman-streamlit.git
+git clone https://github.com/SA12352/hangman-streamlit.git
 cd hangman-streamlit
 Install dependencies:
 
