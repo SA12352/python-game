@@ -83,22 +83,3 @@ LinkedIn
 
 GitHub
 
-📜 License
-This project is licensed under the MIT License.
-Feel free to fork, modify, and share! 🌟
-
-yaml
-Copy code
-
----
-
-💡 **Tips to make it even more attractive on GitHub:**
-
-1. Add a **GIF demo** instead of a static screenshot:  
-
-yaml
-Copy code
-2. Use **badges** for Python version, Streamlit version, and license (already added).  
-3. Include a **Live Demo link** if you host it on Streamlit Cloud.  
-
----
